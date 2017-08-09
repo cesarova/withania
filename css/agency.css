@@ -99,7 +99,16 @@ fieldset[disabled] .btn-primary.active {
   color: #B6414A;
   background-color: white;
 }
-
+.btn-xl {
+  color: white;
+  background-color: #B6414A;
+  border-color: #B6414A;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-radius: 3px;
+  font-size: 18px;
+  padding: 20px 40px;
 }
 .btn-xl:hover,
 .btn-xl:focus,
